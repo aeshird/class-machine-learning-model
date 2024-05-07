@@ -1,3 +1,2 @@
-# Class Machine Learning Demonstration
-BAIS:3300 Digital Product Management
+# BAIS:3300 - Class Machine Learning Demonstration
 Kaggle Machine Learning Model for Salary Prediction
